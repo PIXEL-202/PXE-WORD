@@ -35,15 +35,15 @@ $$ sudo apt-get install python3 python3-pip
 
 next :
 
-$$  git clone https://github.com/MH-27/x-word.git
+$$  git clone https://github.com/PIXEL-202/PXE-WORD.git
 
-$$  cd x-word
+$$  cd PXE-WORD
 
 $$  sudo pip3 install -r  requirements.txt
 
 $$  sudo chmod +x x-word.py
 
-$$  python3 x-word.py
+$$  python3 PXE-WORD.py
 
 ![x](xx.gif)
 
