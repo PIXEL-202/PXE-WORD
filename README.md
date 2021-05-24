@@ -41,7 +41,7 @@ $$  cd PXE-WORD
 
 $$  sudo pip3 install -r  requirements.txt
 
-$$  sudo chmod +x x-word.py
+$$  sudo chmod +x PXE-WORD.py
 
 $$  python3 PXE-WORD.py
 
