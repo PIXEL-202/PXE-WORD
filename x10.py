@@ -83,5 +83,5 @@ def xxx(x,xx,xxx,xxxx,MH):
     print (colored(f" telegram ==>  t.me/HM_XHT     ","red"))
     print (colored(f" email    ==> alghonime_27@outlook.com     ","red"))
     print("")
-    retunr ""
+    return ""
     
