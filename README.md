@@ -45,7 +45,7 @@ $$  sudo chmod +x PXE-WORD.py
 
 $$  python3 PXE-WORD.py
 
-![x](xx.gif)
+![x](video.gif)
 
 # Contact
 If you encounter any problem or want to inquire about something, do not hesitate to contact me
