@@ -81,7 +81,7 @@ def xxx(x,xx,xxx,xxxx,MH):
     print (colored(f" git hub  ==> www.github.com/PIXEL-202 ","red"))
     print (colored(f" insta    ==> www.instagram.com/al_ghonime     ","red"))
     print (colored(f" telegram ==>  t.me/HM_XHT     ","red"))
-    return (colored(f"email    ==> alghonime_27@outlook.com     ","red")) 
+    print (colored(f" email    ==> alghonime_27@outlook.com     ","red"))
     print("")
-    print("")
+    retunr ""
     
