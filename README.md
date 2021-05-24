@@ -1,8 +1,8 @@
 
 ![x-word](logo.png)
 
-# x-word
-The word x uses 
+# PXE-word
+The PXE-WORD uses 
 many modern algorithms
 to create the best
 word list and after 
