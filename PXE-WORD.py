@@ -26,7 +26,7 @@ from pyfiglet import Figlet
 from termcolor import colored
 print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
 x = Figlet(font="standard")
-print (colored(x.renderText("              x - word  "),"green"))
+print (colored(x.renderText("              PXE - WORD   "),"green"))
 print("")
 print("\n\n\n\n")
 print("\n\n")
